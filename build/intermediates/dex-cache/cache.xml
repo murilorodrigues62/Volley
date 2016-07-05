@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_70534f52052b79367a305030f720c721e90fe3a8/classes.dex" />
+    </item>
+    <item
+        jar="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_acc61c5e6491e0e4cad8f157f2173284ff0e93ef/classes.dex" />
+    </item>
+    <item
+        jar="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_a6bb38f714dbb3cb27110fe4da909e9d984812a6/classes.dex" />
+    </item>
+    <item
+        jar="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ec33df09986e8bfd6859f7a2e92cf80ca695da23">
+        <dex dex="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_977e37bfc50a5552c70714893e6e6cddce649c5a/classes.dex" />
+    </item>
+    <item
+        jar="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/libs/volley.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d779c8f5d2381f1416153dee7f3d40337558bc90">
+        <dex dex="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_9a238b2007cefb67310c6993d116457bc823f9f1/classes.dex" />
+    </item>
+    <item
+        jar="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b1952f3f2e45d78af8d59769d611d7169f9a957d/classes.dex" />
+    </item>
+    <item
+        jar="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_f787a81453c1a9808e1637fe36e7871ae290c05b/classes.dex" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f6239821904b8bd6abe8ab66c1e2e11c76623210/classes.dex" />
+    </item>
+    <item
+        jar="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7fb970e7a7f7e02832cd513c6b9dd4109494e4bb">
+        <dex dex="/media/rodrigues/Arquivos/Google Drive/IFSP/PA2P2 - Programacao Android II/exercicios/Volley/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2004949bf3e5b09c9380e8b094fdc6f284683949/classes.dex" />
+    </item>
+
+</items>
